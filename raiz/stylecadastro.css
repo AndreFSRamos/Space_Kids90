@@ -1,0 +1,11 @@
+label{
+	text-transform:uppercase;
+	font-weight:bold;
+}
+a{
+	color:#ffffff;
+}
+a:hover{
+	color:#ffff00;
+	text-decoration:none;
+}

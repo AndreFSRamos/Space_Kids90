@@ -1,0 +1,12 @@
+.col-xl-4{
+	margin-top: 10px;
+	margin-right: 0px;
+	box-shadow: 3px 3px 3px 3px #000000	;
+}
+.col-xl-4 h3{
+	color: #ffffff;
+	text-shadow: 2px 2px 5px #000000;
+}
+.container-fluid{
+	background-color: #363636;
+}

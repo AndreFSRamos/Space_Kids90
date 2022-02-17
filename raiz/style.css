@@ -1,0 +1,15 @@
+form{
+	background-color:#848484;
+	border: solid #848484;
+	border-radius: 10px;
+	margin:auto; 
+	text-align:center;
+}
+a:hover{
+	text-decoration:none;
+}
+label{
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#ffffff;
+}
